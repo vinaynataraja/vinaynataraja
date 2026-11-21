@@ -66,6 +66,7 @@ I am learning to design AI platforms that are not only intelligent, but also **s
 - **Cost and performance optimization** — right-sizing compute, storage, and inference workloads  
 
 ---
+<!--
 
 ## 📂 Featured Projects
 
@@ -88,7 +89,7 @@ Focused on [data quality, scalability, security, or performance].
 [View repository](https://github.com/yourusername/project-name)
 
 ---
-
+-->
 ## 📈 Currently Building
 
 - [ ] Design an end-to-end enterprise RAG reference architecture  
