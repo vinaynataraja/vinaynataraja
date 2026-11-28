@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vinay 👋</h1>
+<h1 align="center">Hi, I'm Vinay Nataraja 👋</h1>
 
 <h3 align="center">
 Data Architect | Building Reliable Data Foundations for AI
@@ -6,6 +6,15 @@ Data Architect | Building Reliable Data Foundations for AI
 
 <p align="center">
   <em>Turning complex data landscapes into scalable, governed, and AI-ready platforms.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinay-nataraja-63a43225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://www.youtube.com/@vinaynataraja9895/videos" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
 </p>
 
 ---
@@ -46,7 +55,7 @@ I am learning to design AI platforms that are not only intelligent, but also **s
 |---|---|
 | Data Architecture | Conceptual, logical, and physical data modeling; data warehousing; lakehouse architecture; dimensional modeling |
 | Data Engineering | ETL/ELT, batch and streaming pipelines, orchestration, data integration |
-| Cloud & Platforms | [AWS] |
+| Cloud & Platforms | [AWS / Azure / GCP], [Databricks / Snowflake / Synapse / Fabric] |
 | Databases | [SQL Server / PostgreSQL / Oracle / MySQL], NoSQL |
 | Governance | Data quality, lineage, cataloging, metadata management, access controls |
 | AI & ML | Python, [ML frameworks], feature engineering, model deployment |
@@ -66,7 +75,6 @@ I am learning to design AI platforms that are not only intelligent, but also **s
 - **Cost and performance optimization** — right-sizing compute, storage, and inference workloads  
 
 ---
-<!--
 
 ## 📂 Featured Projects
 
@@ -89,7 +97,7 @@ Focused on [data quality, scalability, security, or performance].
 [View repository](https://github.com/yourusername/project-name)
 
 ---
--->
+
 ## 📈 Currently Building
 
 - [ ] Design an end-to-end enterprise RAG reference architecture  
@@ -102,9 +110,14 @@ Focused on [data quality, scalability, security, or performance].
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Name-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:your.email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=googlechrome)](https://your-portfolio-link.com/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinay-nataraja-63a43225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinay_Nataraja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://www.youtube.com/@vinaynataraja9895/videos" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Vinay_Nataraja-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
+</p>
 
 ---
 
