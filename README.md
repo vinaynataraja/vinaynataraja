@@ -35,7 +35,7 @@ My interest lies at the intersection of:
 
 ---
 
-## 🧭 What I’m Learning
+## 🧭 What I’m into
 
 ```text
 Data Architecture ──► AI Enablement ──► AI Platform Architecture
@@ -45,7 +45,7 @@ Data Architecture ──► AI Enablement ──► AI Platform Architecture
    Governance           MLOps                 LLMOps & observability
 ```
 
-I am learning to design AI platforms that are not only intelligent, but also **secure, governed, observable, and cost-efficient**.
+I am strengthening my skills in building AI platforms that balance intelligence with security, governance, observability, and cost efficiency.
 
 ---
 
@@ -75,7 +75,7 @@ I am learning to design AI platforms that are not only intelligent, but also **s
 - **Cost and performance optimization** — right-sizing compute, storage, and inference workloads  
 
 ---
-
+<!--
 ## 📂 Featured Projects
 
 ### 🔹 [Project Name] — [Short outcome-focused title]
@@ -105,7 +105,7 @@ Focused on [data quality, scalability, security, or performance].
 - [ ] Create an MLOps/LLMOps project with automated evaluation  
 - [ ] Publish architecture diagrams and design decision records  
 - [ ] Learn advanced AI platform governance and FinOps practices  
-
+-->
 ---
 
 ## 📫 Let’s Connect
